@@ -62,4 +62,4 @@ Intermediate/*
 DerivedDataCache/*
 
 # Asset files
-#*.uasset
+Content/StarterContent
